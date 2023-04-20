@@ -2,8 +2,10 @@ package fizzBuzz;
 
 public class FizzBuzz {
 
-	public FizzBuzz() {
-		// TODO Auto-generated constructor stub
+	private static final String UN = "1";
+
+	public String fizzBuzz(int i) {
+		return UN;
 	}
 
 }
